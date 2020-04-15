@@ -61,7 +61,6 @@ def getAllClazzInfo(userInfo):
         print("getAllClazzInfo wrong!")
         return None
 
-
 # 发送检测签到是否开启的请求
 def checkIsOpen(userInfo, clazzId):
     try:
